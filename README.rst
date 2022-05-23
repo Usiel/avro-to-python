@@ -1,4 +1,12 @@
 ==============
+Private Fork of avro-to-python
+==============
+
+This is a private fork of https://github.com/SRserves85/avro-to-python. The original repository does not fulfill our needs at the moment and results in invalid Python code when applied to the Avro schemas on [Papyrus](https://github.tumblr.net/TumblrAE/papyrus).
+
+This fork is used in Papyrus' builds and will be replaced once we have the resources to create a proper PR on the original repository.
+
+==============
 avro-to-python
 ==============
 
